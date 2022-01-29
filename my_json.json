@@ -1,0 +1,158 @@
+{
+  'meta': {
+    'pagination': {
+      'total': 733,
+      'pages': 37,
+      'page': 1,
+      'limit': 20,
+      'links': {
+        'previous': None,
+        'current': 'https://gorest.co.in/public/v1/users?page=1',
+        'next': 'https://gorest.co.in/public/v1/users?page=2'
+      }
+    }
+  },
+  'data': [
+    {
+      'id': 774,
+      'name': 'Usha Shah',
+      'email': 'usha_shah@macgyver.name',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 773,
+      'name': 'Devasree Somayaji',
+      'email': 'somayaji_devasree@runolfsdottir.org',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 772,
+      'name': 'Achyut Deshpande III',
+      'email': 'iii_deshpande_achyut@braun.biz',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 771,
+      'name': 'Subhasini Nair',
+      'email': 'subhasini_nair@lynch-prosacco.io',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 770,
+      'name': 'Aditeya Sethi',
+      'email': 'sethi_aditeya@toy-conroy.com',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 769,
+      'name': 'Rev. Chaturbhuj Dwivedi',
+      'email': 'chaturbhuj_dwivedi_rev@crooks.biz',
+      'gender': 'male',
+      'status': 'inactive'
+    },
+    {
+      'id': 768,
+      'name': 'Jagdeep Mukhopadhyay',
+      'email': 'mukhopadhyay_jagdeep@kautzer.info',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 767,
+      'name': 'Bhudeva Banerjee',
+      'email': 'bhudeva_banerjee@dibbert.name',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 766,
+      'name': 'Kalpana Singh',
+      'email': 'singh_kalpana@hilll.biz',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 765,
+      'name': 'Ajeet Kakkar',
+      'email': 'kakkar_ajeet@jones.info',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 764,
+      'name': 'Prof. Adhiraj Tagore',
+      'email': 'prof_tagore_adhiraj@grady-purdy.info',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 762,
+      'name': 'Kartik Achari',
+      'email': 'kartik_achari@wolff-rau.biz',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 761,
+      'name': 'Dayaananda Nair V',
+      'email': 'v_nair_dayaananda@parker-leuschke.com',
+      'gender': 'male',
+      'status': 'inactive'
+    },
+    {
+      'id': 759,
+      'name': 'Msgr. Bhudev Saini',
+      'email': 'saini_bhudev_msgr@sauer.name',
+      'gender': 'male',
+      'status': 'inactive'
+    },
+    {
+      'id': 758,
+      'name': 'Miss Harinarayan Kaur',
+      'email': 'miss_harinarayan_kaur@schulist.org',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 757,
+      'name': 'Ananta Ganaka PhD',
+      'email': 'ananta_ganaka_phd@stracke.com',
+      'gender': 'female',
+      'status': 'active'
+    },
+    {
+      'id': 756,
+      'name': 'Aasha Tandon',
+      'email': 'tandon_aasha@wilkinson.com',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 755,
+      'name': 'Hamsini Jha',
+      'email': 'hamsini_jha@cruickshank.org',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 754,
+      'name': 'Aditeya Dhawan',
+      'email': 'aditeya_dhawan@daugherty.biz',
+      'gender': 'female',
+      'status': 'active'
+    },
+    {
+      'id': 753,
+      'name': 'Prathamesh Pandey',
+      'email': 'pandey_prathamesh@yundt-barton.io',
+      'gender': 'female',
+      'status': 'inactive'
+    }
+  ]
+}
+
